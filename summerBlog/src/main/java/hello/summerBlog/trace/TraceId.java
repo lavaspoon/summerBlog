@@ -1,7 +1,7 @@
 package hello.summerBlog.trace;
 
 import java.util.UUID;
-
+//로그추적기 트레이스 클래스
 public class TraceId {
 
     private String id;
